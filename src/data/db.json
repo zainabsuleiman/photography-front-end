@@ -1,0 +1,226 @@
+{
+    "parent_categories": [{
+            "id": 1,
+            "last_updated_by": "abdoulsulaiman@gmail.com",
+            "uuid": "924705ae-fb12-40a7-bceb-ef81c771782f",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T12:59:25.773568Z",
+            "last_updated_at": "2020-12-04T12:59:25.773610Z",
+            "done_by": "",
+            "name": "Ubuhinzi",
+            "description": "Farming related staff",
+            "picture": "/ParentCategories_Image/2020-12-04_125925_924705ae__5.jpg",
+            "pctype": "General"
+        },
+        {
+            "id": 2,
+            "last_updated_by": "abdoulsulaiman@gmail.com",
+            "uuid": "bfa9b643-052a-411a-92bc-fa38436a371f",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T13:01:34.838059Z",
+            "last_updated_at": "2020-12-04T13:01:34.838113Z",
+            "done_by": "",
+            "name": "Electronics",
+            "description": "phones, laptops, etc.",
+            "picture": "/ParentCategories_Image/2020-12-04_130134_bfa9b643__5.jpg",
+            "pctype": "General"
+        }
+    ],
+    "industries": [{
+            "id": 1,
+            "last_updated_by": "admin",
+            "uuid": "478a2d70-dabb-4a39-945d-78a485d1a1cc",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T12:05:22.172099Z",
+            "last_updated_at": "2020-12-04T12:05:22.172148Z",
+            "done_by": "",
+            "name": "Commerce",
+            "description": "Selling Products"
+        },
+        {
+            "id": 2,
+            "last_updated_by": "admin",
+            "uuid": "92951765-3426-4262-ae8b-0c8c560315ce",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T12:05:58.977956Z",
+            "last_updated_at": "2020-12-04T12:05:58.978073Z",
+            "done_by": "",
+            "name": "IT",
+            "description": "Provide IT related service and products"
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "last_updated_by": "admin",
+            "uuid": "469b3a10-ff69-4450-86da-85a77feedd39",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T14:35:11.320830Z",
+            "last_updated_at": "2020-12-04T14:35:11.320875Z",
+            "done_by": "",
+            "name": "Mac Pro 8GB RAM Brand  New",
+            "ribbon": "New",
+            "visibilityStatus": true,
+            "price": 1500.0,
+            "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "discount": 10.0,
+            "primeImageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16touch-silver-select-201911?wid=892&hei=820&&qlt=80&.v=1572825196932",
+            "entity": {
+                "name": "Hexakomb",
+                "description": "Selling Products",
+                "phone": "0787354068",
+                "address": "KG 645 ST",
+                "industry": {
+                    "id": 2,
+                    "last_updated_by": "admin",
+                    "uuid": "92951765-3426-4262-ae8b-0c8c560315ce",
+                    "deleted_status": false,
+                    "doneAt": "2020-12-04T12:05:58.977956Z",
+                    "last_updated_at": "2020-12-04T12:05:58.978073Z",
+                    "done_by": "",
+                    "name": "IT",
+                    "description": "Provide IT related service and products"
+                },
+                "email": "hexakomb@gmail.com"
+            }
+        },
+        {
+            "id": 2,
+            "last_updated_by": "admin",
+            "uuid": "a9ee263d-218b-4f29-b45f-efb293159453",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T14:36:55.808929Z",
+            "last_updated_at": "2020-12-04T14:36:55.808957Z",
+            "done_by": "",
+            "name": "Sumsung S9",
+            "ribbon": "New Arrival",
+            "visibilityStatus": true,
+            "price": 700.0,
+            "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "discount": 10.0,
+            "primeImageUrl": "https://cdn.alzashop.com/ImgW.ashx?fd=f3&cd=SAMO0157a",
+            "entity": {
+                "name": "Kabash",
+                "description": "Selling Products",
+                "phone": "0783382866",
+                "address": "KN 2 Ave, Kigali",
+                "industry": {
+                    "id": 1,
+                    "last_updated_by": "admin",
+                    "uuid": "478a2d70-dabb-4a39-945d-78a485d1a1cc",
+                    "deleted_status": false,
+                    "doneAt": "2020-12-04T12:05:22.172099Z",
+                    "last_updated_at": "2020-12-04T12:05:22.172148Z",
+                    "done_by": "",
+                    "name": "Commerce",
+                    "description": "Selling Products"
+                },
+                "email": "kabash250@gmail.com"
+            }
+        }
+    ],
+    "services": [{
+            "id": 1,
+            "last_updated_by": "admin",
+            "uuid": "ba9405ac-675e-4112-97eb-6cbd2fb3730c",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T15:08:15.525933Z",
+            "last_updated_at": "2020-12-04T15:08:15.525969Z",
+            "done_by": "",
+            "name": "Accounting",
+            "ribbon": "New Arrival",
+            "visibilityStatus": true,
+            "price": 15000.0,
+            "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "discount": 10.0,
+            "primeImageUrl": null,
+            "entity": {
+                "name": "Kabash",
+                "description": "Selling Products",
+                "phone": "0783382866",
+                "address": "KN 2 Ave, Kigali",
+                "industry": {
+                    "id": 1,
+                    "last_updated_by": "admin",
+                    "uuid": "478a2d70-dabb-4a39-945d-78a485d1a1cc",
+                    "deleted_status": false,
+                    "doneAt": "2020-12-04T12:05:22.172099Z",
+                    "last_updated_at": "2020-12-04T12:05:22.172148Z",
+                    "done_by": "",
+                    "name": "Commerce",
+                    "description": "Selling Products"
+                },
+                "email": "kabash250@gmail.com"
+            }
+        },
+        {
+            "id": 2,
+            "last_updated_by": "admin",
+            "uuid": "7a5ea2b7-467f-4959-8e7c-9fcb6c41b907",
+            "deleted_status": false,
+            "doneAt": "2020-12-04T15:14:07.302404Z",
+            "last_updated_at": "2020-12-04T15:14:07.302453Z",
+            "done_by": "",
+            "name": "Car Rental",
+            "ribbon": "New Arrival",
+            "visibilityStatus": true,
+            "price": null,
+            "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "discount": null,
+            "primeImageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXFRcaGBcXGBofIBoZFhgXFx0YHxoYHSggGBolGxcWITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLy8tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBEQACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAEBQIDBgEABwj/xABEEAABAwIEAgcGAwYEBgIDAAABAgMRACEEBRIxQVEGEyJhcYGRMqGxwdHwQlLhFCNicpLxBxUzgiRDU7LC0qLiNFRj/8QAGwEAAgMBAQEAAAAAAAAAAAAAAQIAAwQFBgf/xAA6EQACAQIEAgcHAwQBBQEAAAAAAQIDEQQSITEFQRMiUWFxgZEGMqGxwdHwFELhI1Jy8TMVQ1Ni0hb/2gAMAwEAAhEDEQA/APjeBUhLgLiCpM9pIgEjjEgwe+KV35Cp2HreY4ZjEJcaR+0NKT228Qgakk7pmIkQCFjntS2bWo+ZJ6Gm6Ot4XF9chjDIQB2kKU7Djc8jq/fIBvpKTYxItVc7xs2xo9e6sJh0S0P9W449f8jVwd50qIBTG5lJHKmc9AdEnoWZrkL2FILaw7/IFoXG8ltYCu+02vQjK5TOi47MGy7pK424F2cgQUvDVMTadxRlFSBTlKG4xwfT1xD5cQyhIWnS4CNQPtc76e0bXopSWzLG090X51n2DxBQgtNBZAlxRcQnUm2pZSJKjM35DberozlbrFXRq943Qnz7o0/hkpd60KZWAlKgsODSqSAFQARvwF451LjOMUM+ja2WUEWcCwrVqSj2iCAoTKhY8Ck770FJorm1sZXNcIEqJS2pKZ23HqAPhUTGjK6B0QEXm+wP1osbmXYXL5SVSQQB53iBzMGfI0LaEbGuSSHk3",
+            "entity": {
+                "name": "Moshion",
+                "description": "Selling Products",
+                "phone": "0787354068",
+                "address": "KG 645 ST",
+                "industry": {
+                    "id": 1,
+                    "last_updated_by": "admin",
+
+                    "uuid": "478a2d70-dabb-4a39-945d-78a485d1a1cc",
+                    "deleted_status": false,
+                    "doneAt": "2020-12-04T12:05:22.172099Z",
+                    "last_updated_at": "2020-12-04T12:05:22.172148Z",
+                    "done_by": "",
+                    "name": "Commerce",
+                    "description": "Selling Products"
+                },
+                "email": "moshin@gmail.com"
+            }
+        }
+    ],
+    "entities":[
+        {
+            "name": "Hexakomb",
+            "description": "Selling Products",
+            "phone": "0787354068",
+            "address": "KG 645 ST",
+            "industry": {
+                "id": 2,
+                "last_updated_by": "admin",
+                "uuid": "92951765-3426-4262-ae8b-0c8c560315ce",
+                "deleted_status": false,
+                "doneAt": "2020-12-04T12:05:58.977956Z",
+                "last_updated_at": "2020-12-04T12:05:58.978073Z",
+                "done_by": "",
+                "name": "IT",
+                "description": "Provide IT related service and products"
+            },
+            "email": "hexakomb@gmail.com",
+            "socials": [
+                {
+                    "id": 1,
+                    "last_updated_by": "admin",
+                    "uuid": "82fcd729-19d9-4104-a90b-6d6294d4b31f",
+                    "deleted_status": false,
+                    "doneAt": "2020-12-09T09:20:35.276773Z",
+                    "last_updated_at": "2020-12-09T09:20:35.276807Z",
+                    "done_by": "",
+                    "name": "Whatsapp",
+                    "link": "www.whatsapp.com",
+                    "iconImage": "/media/SocialLinks_Icon/2020-12-09_092035_82fcd729__5.jpg",
+                    "entity": 3
+                }
+            ]
+        }
+    ]
+}

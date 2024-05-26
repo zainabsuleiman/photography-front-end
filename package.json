@@ -1,0 +1,73 @@
+{
+    "name": "e_commerce_vue_cli",
+    "proxy":"http://127.0.0.1:8000/",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@suadelabs/vue3-multiselect": "^1.0.2",
+        "@vueform/multiselect": "^2.1.1",
+        "audit": "0.0.6",
+        "axios": "^0.21.1",
+        "core-js": "^3.6.5",
+        "datatables.net": "^1.10.22",
+        "datatables.net-bs4": "^1.10.22",
+        "datatables.net-buttons": "^1.6.5",
+        "datatables.net-buttons-bs4": "^1.6.5",
+        "datatables.net-dt": "^1.10.22",
+        "datatables.net-select": "^1.3.1",
+        "datatables.net-select-bs4": "^1.3.1",
+        "dropzone": "^5.7.2",
+        "fix": "0.0.6",
+        "google-libphonenumber": "^3.2.16",
+        "jquery": "^3.5.1",
+        "js-number-formatter": "^1.0.1",
+        "moment": "^2.29.1",
+        "querystring": "^0.2.0",
+        "quill": "^1.3.7",
+        "secure-ls": "^1.2.6",
+        "socket.io-client": "^3.1.2",
+        "sweetalert2": "^10.10.1",
+        "vue": "^3.0.0",
+        "vue-ctk-date-time-picker": "^2.5.0",
+        "vue-router": "^4.0.0-0",
+        "vueperslides": "^3.2.0",
+        "vuex": "^4.0.0-0",
+        "vuex-persistedstate": "^4.0.0-beta.1"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-eslint": "~4.5.0",
+        "@vue/cli-plugin-router": "^4.5.9",
+        "@vue/cli-plugin-vuex": "^4.5.9",
+        "@vue/cli-service": "~4.5.0",
+        "@vue/compiler-sfc": "^3.0.0",
+        "babel-eslint": "^10.1.0",
+        "babel-polyfill": "^6.26.0",
+        "eslint": "^6.7.2",
+        "eslint-plugin-vue": "^7.0.0-0"
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true
+        },
+        "extends": [
+            "plugin:vue/vue3-essential",
+            "eslint:recommended"
+        ],
+        "parserOptions": {
+            "parser": "babel-eslint"
+        },
+        "rules": {}
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ]
+}
