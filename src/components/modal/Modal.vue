@@ -39,7 +39,7 @@
 </template>
 
 <script>
-import ButtonCta from "../Button/ButtonCta";
+import ButtonCta from "../Button/ButtonCta.vue";
 
 export default {
   props: {
