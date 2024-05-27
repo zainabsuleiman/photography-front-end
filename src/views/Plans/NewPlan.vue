@@ -63,7 +63,7 @@
 <script>
 import TextInput from "../../components/TextInput.vue";
 
-import { alert } from "../../utils/alertUtils.vue";
+import { alert } from "../../utils/alertUtils";
 import axios from "axios";
 export default {
   name: "New Industry",

@@ -167,8 +167,8 @@
 </template>
 
 <script>
-import SideBar from "@/components/SideBar";
-import SidebarItems from "@/Layouts/dashboard/partials/SidebarItems";
+import SideBar from "@/components/SideBar.vue";
+import SidebarItems from "@/Layouts/dashboard/partials/SidebarItems.vue";
 
 export default {
   components: { SideBar, SidebarItems },

@@ -65,7 +65,7 @@ import SectionHeader from "@/components/dashboard/SectionHeader.vue";
 import Modal from  '../../../components/modal/Modal.vue';
 import DataTable from "@/components/DataTable.vue";
 import ButtonCta from "@/components/Button/ButtonCta";
-import { alert } from "@/utils/alertUtils.vue";
+import { alert } from "@/utils/alertUtils";
 // import moment from "moment";
 
 export default {

@@ -30,13 +30,13 @@
 
 <script>
 // @ is an alias to /src
-import NavBar from "@/components/Navbar/NavBar";
-import NavItem from "@/components/Navbar/NavItem";
-import HeroBanner from "@/views/Home/HeroBanner";
-import About from "@/views/Home/About";
-import Features from "@/views/Home/Features";
-import Pricing from "@/views/Home/Pricing";
-import Footer from "@/components/Footer/Footer";
+import NavBar from "@/components/Navbar/NavBar.vue";
+import NavItem from "@/components/Navbar/NavItem.vue";
+import HeroBanner from "@/views/Home/HeroBanner.vue";
+import About from "@/views/Home/About.vue";
+import Features from "@/views/Home/Features.vue";
+import Pricing from "@/views/Home/Pricing.vue";
+import Footer from "@/components/Footer/Footer.vue";
 
 export default {
   components: {

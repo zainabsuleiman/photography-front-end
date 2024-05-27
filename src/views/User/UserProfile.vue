@@ -268,8 +268,8 @@
 </template>
 <script>
 // @ alias to /src
-import { alert } from "@/utils/alertUtils.vue";
-import ButtonCta from "@/components/Button/ButtonCta";
+import { alert } from "@/utils/alertUtils";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
   name: "UserProfile",

@@ -24,7 +24,7 @@
 <script>
 // @ alias to /src
 import TextInput from "@/components/TextInput.vue";
-import ButtonCta from "@/components/Button/ButtonCta";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
   name: "Forgot Password",

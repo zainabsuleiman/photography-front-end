@@ -41,7 +41,7 @@ import axios from "axios";
 import DataTable from "@/components/DataTable.vue";
 import SectionHeader from "@/components/dashboard/SectionHeader.vue";
 import ButtonCta from "@/components/Button/ButtonCta.vue";
-import { alert } from "@/utils/alertUtils.vue";
+import { alert } from "@/utils/alertUtils";
 import InstitutionBranchForm from "./InstitutionBranchForm.vue";
 import moment from 'moment';
 

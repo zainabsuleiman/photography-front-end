@@ -48,7 +48,7 @@ import axios from "axios";
 // import SectionHeader from "@/components/dashboard/SectionHeader";
 // import DataTable from "@/components/DataTable";
 // import ButtonCta from "@/components/Button/ButtonCta";
-import { alert } from "@/utils/alertUtils.vue";
+import { alert } from "@/utils/alertUtils";
 // import viewmodal from "./viewmodal.vue";
 import modal from "@/components/modal/Modal.vue";
 // import moment from "moment";

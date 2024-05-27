@@ -271,7 +271,7 @@
 <script>
 // @ is an alias to /src
 import PhoneInput from "@/components/PhoneInput.vue";
-import ButtonCta from "@/components/Button/ButtonCta";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
   name: "ClientRegister",

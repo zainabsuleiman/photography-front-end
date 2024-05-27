@@ -136,7 +136,7 @@
 </template>
 
 <script>
-import SidebarItem from "@/components/dashboard/SidebarItem";
+import SidebarItem from "@/components/dashboard/SidebarItem.vue";
 
 export default {
   components: {

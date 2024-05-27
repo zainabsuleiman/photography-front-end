@@ -83,7 +83,7 @@
 
 <script>
 // @ alias to /src
-import ButtonCta from "@/components/Button/ButtonCta";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
   components: {

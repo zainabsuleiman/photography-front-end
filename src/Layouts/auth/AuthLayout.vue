@@ -51,20 +51,20 @@
       </div>
     </div>
   </div>
-  <Footer v-if="false"></Footer>
+  
 </template>
 
 <script>
 // @ is an alias to /src
 import NavBar from "@/components/Navbar/NavBar.vue";
 import NavItem from "@/components/Navbar/NavItem.vue";
-import Footer from "@/components/Footer/Footer.vue";
+
 
 export default {
   components: {
     NavBar,
     NavItem,
-    Footer
+    
   },
   computed: {
     currentTitle() {

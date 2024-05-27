@@ -80,7 +80,7 @@
 </template>
 
 <script>
-import SideBarItem from "../../components/SidebarItem";
+import SideBarItem from "../../components/SidebarItem.vue";
 
 export default {
   components: {

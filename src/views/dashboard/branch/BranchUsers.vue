@@ -83,7 +83,7 @@ import Datatable from "@/components/DataTable.vue";
 import SectionHeader from "@/components/dashboard/SectionHeader.vue";
 import ButtonCta from "@/components/Button/ButtonCta.vue";
 import moment from "moment";
-import { alert } from "../../../utils/alertUtils.vue";
+import { alert } from "../../../utils/alertUtils";
 import Modal from "../../../components/modal/Modal.vue";
 
 export default {

@@ -140,7 +140,7 @@
 </template>
 <script>
 import axios from "axios";
-import { alert } from "../../utils/alertUtils.vue";
+import { alert } from "../../utils/alertUtils";
 // import Loader from "../../components/Loader";
 export default {
   //   component: {
