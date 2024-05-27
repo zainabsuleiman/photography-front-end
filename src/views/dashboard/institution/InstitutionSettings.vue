@@ -71,8 +71,8 @@
 <script>
 // @ alias src
 import moment from "moment";
-import InfoTag from "@/components/dashboard/InfoTag";
-import ButtonCta from "@/components/Button/ButtonCta";
+import InfoTag from "@/components/dashboard/InfoTag.vue";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
   components: { InfoTag, ButtonCta },

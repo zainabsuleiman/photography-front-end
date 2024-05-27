@@ -86,9 +86,9 @@
   </div>
 </template>
 <script>
-import StarRating from "../components/StarRating";
-import ProductCard from "../components/ProductCard";
-import ServiceComponent from "../components/ServiceComponent";
+import StarRating from "../components/StarRating.vue";
+import ProductCard from "../components/ProductCard.vue";
+import ServiceComponent from "../components/ServiceComponent.vue";
 import axios from "axios";
 
 export default {

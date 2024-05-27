@@ -79,12 +79,12 @@
 <script>
 // @ alias src
 import axios from "axios";
-import Datatable from "@/components/DataTable";
-import SectionHeader from "@/components/dashboard/SectionHeader";
-import ButtonCta from "@/components/Button/ButtonCta";
+import Datatable from "@/components/DataTable.vue";
+import SectionHeader from "@/components/dashboard/SectionHeader.vue";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 import moment from "moment";
-import { alert } from "../../../utils/alertUtils";
-import Modal from "../../../components/modal/Modal";
+import { alert } from "../../../utils/alertUtils.vue";
+import Modal from "../../../components/modal/Modal.vue";
 
 export default {
   components: { Datatable, SectionHeader, ButtonCta, Modal },

@@ -24,8 +24,8 @@
 
 <script>
 import axios from "axios";
-import DataTable from "@/components/DataTable";
-import { alert } from "../../utils/alertUtils";
+import DataTable from "@/components/DataTable.vue";
+import { alert } from "../../utils/alertUtils.vue";
 
 export default {
   name: "Plans",

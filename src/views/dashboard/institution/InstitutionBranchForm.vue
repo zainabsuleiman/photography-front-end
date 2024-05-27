@@ -78,8 +78,8 @@
 </template>
 
 <script>
-import Modal from "@/components/modal/Modal";
-import ButtonCta from "@/components/Button/ButtonCta";
+import Modal from "@/components/modal/Modal.vue";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
     components: {

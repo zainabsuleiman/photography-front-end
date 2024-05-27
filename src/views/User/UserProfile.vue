@@ -268,7 +268,7 @@
 </template>
 <script>
 // @ alias to /src
-import { alert } from "@/utils/alertUtils";
+import { alert } from "@/utils/alertUtils.vue";
 import ButtonCta from "@/components/Button/ButtonCta";
 
 export default {

@@ -279,8 +279,8 @@
 </template>
 <script>
 import ProductCard from "../components/ProductCard.vue";
-import StarRating from "../components/StarRating";
-import ServiceComponent from "../components/ServiceComponent";
+import StarRating from "../components/StarRating.vue";
+import ServiceComponent from "../components/ServiceComponent.vue";
 import axios from "axios";
 export default {
   components: {

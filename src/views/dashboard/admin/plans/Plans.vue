@@ -42,10 +42,10 @@
 <script>
 import axios from "axios";
 import SectionHeader from "@/components/dashboard/SectionHeader";
-import DataTable from "@/components/DataTable";
-import ButtonCta from "@/components/Button/ButtonCta";
-import { alert } from "@/utils/alertUtils";
-import PlanForm from "./PlanForm";
+import DataTable from "@/components/DataTable.vue";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
+import { alert } from "@/utils/alertUtils.vue";
+import PlanForm from "./PlanForm.vue";
 
 export default {
   name: "Plans",

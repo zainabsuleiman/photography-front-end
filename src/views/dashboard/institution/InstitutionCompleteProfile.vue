@@ -97,7 +97,7 @@
 <script>
 import axios from "axios";
 import { alert } from "@/utils/alertUtils";
-import ButtonCta from "@/components/Button/ButtonCta";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
 
 export default {
   components: {

@@ -54,13 +54,13 @@
   </div>
 </template>
 <script>
-import Dropzoned from "../components/DropzoneComp";
-import TextInput from "../components/TextInput";
-import NumberInput from "../components/NumberInput";
-import RichText from "../components/RichTextEditor";
-import PhoneInput from "../components/PhoneInput";
+import Dropzoned from "../components/DropzoneComp.vue";
+import TextInput from "../components/TextInput.vue";
+import NumberInput from "../components/NumberInput.vue";
+import RichText from "../components/RichTextEditor.vue";
+import PhoneInput from "../components/PhoneInput.vue";
 import axios from "axios";
-import DataTable from "@/components/Datatable";
+import DataTable from "@/components/Datatable.vue";
 
 export default {
   name: "about",

@@ -61,9 +61,9 @@
 </template>
 
 <script>
-import TextInput from "../../components/TextInput";
+import TextInput from "../../components/TextInput.vue";
 
-import { alert } from "../../utils/alertUtils";
+import { alert } from "../../utils/alertUtils.vue";
 import axios from "axios";
 export default {
   name: "New Industry",

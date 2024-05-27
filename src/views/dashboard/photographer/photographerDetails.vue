@@ -460,7 +460,7 @@ import { alert } from "../../../utils/alertUtils";
 import modal from '../../../components/modal/Modal.vue';
 import axios from "axios";
 import DataTable from "../../../components/DataTable.vue";
-import ButtonCta from '../../../components/Button/ButtonCta';
+import ButtonCta from '../../../components/Button/ButtonCta.vue';
 export default {
   name: "photographerDetail",
   components: {

@@ -26,7 +26,7 @@
 
 <script>
 import axios from "axios";
-import Loader from "@/components/IndepedentLoader";
+import Loader from "@/components/IndepedentLoader.vue";
 import { alert } from "@/utils/alertUtils";
 export default {
   name: "VerifyEmail",

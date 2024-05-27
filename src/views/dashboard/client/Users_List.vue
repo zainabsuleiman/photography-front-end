@@ -24,10 +24,10 @@
 
 <script>
 import axios from "axios";
-import SectionHeader from "@/components/dashboard/SectionHeader";
-import DataTable from "@/components/DataTable";
+import SectionHeader from "@/components/dashboard/SectionHeader.vue";
+import DataTable from "@/components/DataTable.vue";
 // import ButtonCta from "@/components/Button/ButtonCta";
-import { alert } from "@/utils/alertUtils";
+import { alert } from "@/utils/alertUtils.vue";
 // import moment from "moment";
 
 export default {

@@ -13,7 +13,7 @@
 <script>
 // @ alias to /src
 import axios from "axios";
-import StatisticCard from "@/components/dashboard/StatisticCard";
+import StatisticCard from "@/components/dashboard/StatisticCard.vue";
 
 export default {
   components: {

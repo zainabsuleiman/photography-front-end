@@ -12,7 +12,7 @@
 
 <script>
 // @ alias to /src
-import StatisticCard from "@/components/dashboard/StatisticCard";
+import StatisticCard from "@/components/dashboard/StatisticCard.vue";
 
 export default {
   components: {

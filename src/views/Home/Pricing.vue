@@ -26,9 +26,9 @@
 </template>
 
 <script>
-import PricePlan from "@/components/price-plan/PricePlan";
+import PricePlan from "@/components/price-plan/PricePlan.vue";
 import axios from 'axios';
-import { alert } from "../../utils/alertUtils";
+import { alert } from "../../utils/alertUtils.vue";
 
 export default {
   components: {

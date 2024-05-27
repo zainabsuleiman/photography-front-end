@@ -97,7 +97,7 @@
 </template>
 <script>
 import axios from "axios";
-import TextInput from "../../components/TextInput";
+import TextInput from "../../components/TextInput.vue";
 import { alert } from "../../utils/alertUtils";
 export default {
   components: {

@@ -270,7 +270,7 @@
 
 <script>
 // @ is an alias to /src
-import PhoneInput from "@/components/PhoneInput";
+import PhoneInput from "@/components/PhoneInput.vue";
 import ButtonCta from "@/components/Button/ButtonCta";
 
 export default {

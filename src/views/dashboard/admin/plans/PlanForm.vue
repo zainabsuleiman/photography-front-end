@@ -87,9 +87,9 @@
 </template>
 
 <script>
-import Modal from "@/components/modal/Modal";
-import ButtonCta from "@/components/Button/ButtonCta";
-import AddableInput from "@/components/addable-input/AddableInput";
+import Modal from "@/components/modal/Modal.vue";
+import ButtonCta from "@/components/Button/ButtonCta.vue";
+import AddableInput from "@/components/addable-input/AddableInput.vue";
 
 export default {
   components: {
